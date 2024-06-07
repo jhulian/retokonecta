@@ -1,43 +1,43 @@
 
 ”
-java:S1192""LDefine a constant instead of duplicating this literal "Add_to_cart" 4 times.(ğ¿ûîúÿÿÿÿ8Ì·§ÿ1J$d92f96ad-50da-452b-8f37-b7ca5ddf4e5d
+java:S1192""LDefine a constant instead of duplicating this literal "Add_to_cart" 4 times.(ğ¿ûîúÿÿÿÿ8Ì·§ÿ1J$ccc0af2b-ce24-4a48-bb60-b3925566acb7
 „
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Õ†«Øùÿÿÿÿ8Ğµí€ÿ1J$ce87aae2-ca7a-41e9-9c7a-a84e552eaf78
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(Õ†«Øùÿÿÿÿ8Ğµí€ÿ1J$0c5b98ba-255b-40aa-8b27-5632ae542ee1
 r
-java:S1874"*Remove this use of "By"; it is deprecated.(Õ†«Øùÿÿÿÿ8Ñµí€ÿ1J$d6bd3ae2-cb8f-4010-852e-842ce7b69d46
+java:S1874"*Remove this use of "By"; it is deprecated.(Õ†«Øùÿÿÿÿ8Ñµí€ÿ1J$fc9fd009-fcec-4ee8-82f6-a38ff27522c1
 „
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÓÃÌ¢üÿÿÿÿ8Ñµí€ÿ1J$5dc7339d-b0a9-41fe-9d77-85f6af1fc945
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ÓÃÌ¢üÿÿÿÿ8Ñµí€ÿ1J$7a84625d-19a8-4ec3-bcd5-73ddbf9813f4
 r
-java:S1874"*Remove this use of "By"; it is deprecated.(ÓÃÌ¢üÿÿÿÿ8Ñµí€ÿ1J$3a059c6e-acc8-42f0-8e7e-c86dd8c32d92
+java:S1874"*Remove this use of "By"; it is deprecated.(ÓÃÌ¢üÿÿÿÿ8Ñµí€ÿ1J$be9099e5-6781-4141-9741-6858ced87c64
 „
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¨÷ù¹şÿÿÿÿ8Òµí€ÿ1J$09e2c02b-ad96-403f-9320-5548a4391401
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(¨÷ù¹şÿÿÿÿ8Òµí€ÿ1J$a9005384-afb9-4895-a08b-c10cc3e3193f
 r
-java:S1874"*Remove this use of "By"; it is deprecated.(¨÷ù¹şÿÿÿÿ8Òµí€ÿ1J$2c00ba3d-2549-474b-97b1-ecec6149d143
+java:S1874"*Remove this use of "By"; it is deprecated.(¨÷ù¹şÿÿÿÿ8Òµí€ÿ1J$c175b039-53fc-46ff-b937-b7da0f0543a7
 
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ƒ¤¯ã8Òµí€ÿ1J$a4fd8133-81ca-46aa-b553-6242daa05a0f
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(ƒ¤¯ã8Òµí€ÿ1J$88107f39-aa70-4ab4-9401-30ae3d5efeed
 m
-java:S1874"*Remove this use of "By"; it is deprecated.(ƒ¤¯ã8Òµí€ÿ1J$f656db02-e882-4c89-9b74-55ecf015c4c6
+java:S1874"*Remove this use of "By"; it is deprecated.(ƒ¤¯ã8Òµí€ÿ1J$59ed8de1-747d-4154-9002-9701ecc8c630
 ~
-java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(àıy8Òµí€ÿ1J$2ef64255-5888-4bdc-900d-efc34ec8678a
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(àıy8Òµí€ÿ1J$f52322bb-5065-40bf-a532-8bde5d842048
 l
-java:S1874"*Remove this use of "By"; it is deprecated.(àıy8Òµí€ÿ1J$3a18f867-887e-431f-a446-946264776925
+java:S1874"*Remove this use of "By"; it is deprecated.(àıy8Òµí€ÿ1J$c34fb703-e114-44d9-aef2-46ea82ed9a5f
 „
-java:S3252 "<Use static access with "org.openqa.selenium.By" for "xpath".(ÍÇ“çÿÿÿÿÿ8Óµí€ÿ1J$3fd50828-57fb-48b6-b713-2d176fbab7bc
+java:S3252 "<Use static access with "org.openqa.selenium.By" for "xpath".(ÍÇ“çÿÿÿÿÿ8Óµí€ÿ1J$0d882454-179f-49f6-ba2d-64f214ae049c
 r
-java:S1874 "*Remove this use of "By"; it is deprecated.(ÍÇ“çÿÿÿÿÿ8Óµí€ÿ1J$7db944e4-d096-4f49-afc4-369231150342
+java:S1874 "*Remove this use of "By"; it is deprecated.(ÍÇ“çÿÿÿÿÿ8Óµí€ÿ1J$c6391d92-dbad-4a0b-b6cf-8673b633ac2b
 „
-java:S3252#"<Use static access with "org.openqa.selenium.By" for "xpath".(íı–Äúÿÿÿÿ8Óµí€ÿ1J$ecdbe9d8-53b4-46ba-a677-5cc012d19b25
+java:S3252#"<Use static access with "org.openqa.selenium.By" for "xpath".(íı–Äúÿÿÿÿ8Óµí€ÿ1J$02c64beb-d922-4a22-80fc-6b3e9dec0fce
 r
-java:S1874#"*Remove this use of "By"; it is deprecated.(íı–Äúÿÿÿÿ8Óµí€ÿ1J$091dea73-77cf-44e3-8882-e2639ec22b48
+java:S1874#"*Remove this use of "By"; it is deprecated.(íı–Äúÿÿÿÿ8Óµí€ÿ1J$6d8452a5-f12e-45c8-87a4-29fd8f74c04b
 „
-java:S3252,"<Use static access with "org.openqa.selenium.By" for "xpath".(« ·Ñüÿÿÿÿ8±€•ÿ1J$7d658654-1b70-456d-ba35-561efb39a713
+java:S3252,"<Use static access with "org.openqa.selenium.By" for "xpath".(« ·Ñüÿÿÿÿ8±€•ÿ1J$a9f4498a-3c66-4841-bd4a-c2b79c06f4f4
 r
-java:S1874,"*Remove this use of "By"; it is deprecated.(« ·Ñüÿÿÿÿ8±€•ÿ1J$f6471c9f-25b6-44b9-86e1-b7170a7c1d4a
+java:S1874,"*Remove this use of "By"; it is deprecated.(« ·Ñüÿÿÿÿ8±€•ÿ1J$f10620e4-d58d-43e7-a7d4-d4b5680112eb
 
-java:S3252/"<Use static access with "org.openqa.selenium.By" for "xpath".(Û–ÒÒ8Ø·§ÿ1J$8309d53d-c906-46e9-871a-1527ee28f738
+java:S3252/"<Use static access with "org.openqa.selenium.By" for "xpath".(Û–ÒÒ8Ø·§ÿ1J$7d1d6a81-8d21-43b2-8265-198dab95e99a
 m
-java:S1874/"*Remove this use of "By"; it is deprecated.(Û–ÒÒ8Ø·§ÿ1J$0722a6fd-9b30-4da0-b7e1-5b928f827041
+java:S1874/"*Remove this use of "By"; it is deprecated.(Û–ÒÒ8Ø·§ÿ1J$c0992d28-7917-4ff5-a679-318d220ff8a6
 ~
-java:S32522"<Use static access with "org.openqa.selenium.By" for "xpath".(ùŞİ8¶ªÿ1J$e71640fd-df62-4f35-ae64-8fa3809f2a2f
+java:S32522"<Use static access with "org.openqa.selenium.By" for "xpath".(ùŞİ8¶ªÿ1J$488149f9-b3d1-4d42-be17-e05668729ca7
 l
-java:S18742"*Remove this use of "By"; it is deprecated.(ùŞİ8¶ªÿ1J$87e26634-7391-41fa-8e98-764b7af0af08
+java:S18742"*Remove this use of "By"; it is deprecated.(ùŞİ8¶ªÿ1J$ecf87c68-8029-436b-ba32-1640d4e16423
